@@ -1,5 +1,6 @@
 ValueOrDefault
 ==============
+[![Latest Stable Version](https://poser.pugx.org/mpscholten/value-or-default/version)](https://packagist.org/packages/mpscholten/value-or-default) [![License](https://poser.pugx.org/mpscholten/value-or-default/license)](https://packagist.org/packages/mpscholten/value-or-default) [![Circle CI](https://circleci.com/gh/mpscholten/value-or-default.svg?style=shield)](https://circleci.com/gh/mpscholten/value-or-default)
 
 Simple default values for your php code.
 
