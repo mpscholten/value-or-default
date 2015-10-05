@@ -1,0 +1,18 @@
+{
+    "name": "mpscholten/value-or-default",
+    "description": "Simple default values for your code",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Scholten",
+            "email": "marc@pedigital.de"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^4.7"
+    },
+    "autoload": {
+        "files": ["src/MPScholten/ValueOrDefault.php"]
+    }
+}
